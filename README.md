@@ -21,4 +21,10 @@
   <img src="https://img.shields.io/badge/-Slack-0F4C81?logo=Slack&logoColor=white&style=flat-square" alt="slack"> 
   <img src="https://img.shields.io/badge/-Windows-0F4C81?logo=Windows&logoColor=white&style=flat-square" alt="windows">
 </div>
+  
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<a href="https://https://github.com/kepkaklaudia/myFirstPage"><img width="278" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/MyFirstPage.png" alt="my-first-page"></a> <a href="https://github.com/kepkaklaudia/currencyConverter"><img width="278" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/CurrencyConverter.png" alt="currency-converter"></a> <a href="https://github.com/kepkaklaudia/currency-converter-react"><img width="278" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/CurrencyConverterReact.png" alt="currency-converter-react"></a>
+
+<a href="https://github.com/kepkaklaudia/taskList"><img width="278" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskList.png" alt="task-list"></a> <a href="https://github.com/kepkaklaudia/taskList-react"><img width="278" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskListReact.png" alt="task-list-react"></a> <a href="https://github.com/kepkaklaudia/taskList-redux"><img width="278" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskListRedux.png" alt="task-list-redux"></a>
+ 
 </div>

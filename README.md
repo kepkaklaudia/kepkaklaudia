@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there 👋</h1>
+<img width="770" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/Welcome.gif" alt="welcome">
 
 ![](https://komarev.com/ghpvc/?username=kepkaklaudia&color=0F4C81&style=for-the-badge)
 

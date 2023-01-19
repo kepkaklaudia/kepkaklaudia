@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/-Redux%20Saga-0F4C81?logo=Redux-Saga&logoColor=white&style=flat-square" alt="saga"> 
   </div>
   <div>
+    <img src="https://img.shields.io/badge/-Styled--Components-0F4C81?logo=styled-components&logoColor=white&style=flat-square" alt="styled">
     <img src="https://img.shields.io/badge/-Git-0F4C81?logo=Git&logoColor=white&style=flat-square" alt="git"> 
     <img src="https://img.shields.io/badge/-GitHub-0F4C81?logo=GitHub&logoColor=white&style=flat-square" alt="github"> 
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0F4C81?logo=Visual-Studio-Code&logoColor=white&style=flat-square" alt="vsc"> 

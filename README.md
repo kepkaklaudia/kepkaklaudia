@@ -26,7 +26,7 @@
   
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   
-  <a href="https://github.com/kepkaklaudia/myFirstPage">
+  <a href="https://github.com/kepkaklaudia/my-first-page">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/MyFirstPage.png" alt="my-first-page">
   </a>
   <a href="https://github.com/kepkaklaudia/currencyConverter">

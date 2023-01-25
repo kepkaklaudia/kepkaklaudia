@@ -38,10 +38,10 @@
   <a href="https://github.com/kepkaklaudia/task-list">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskList.png" alt="task-list">
   </a>
-  <a href="https://github.com/kepkaklaudia/taskList-react">
+  <a href="https://github.com/kepkaklaudia/task-list-react">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskListReact.png" alt="task-list-react">
   </a>
-  <a href="https://github.com/kepkaklaudia/taskList-redux">
+  <a href="https://github.com/kepkaklaudia/task-list-redux">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskListRedux.png" alt="task-list-redux">
   </a>
   

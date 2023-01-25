@@ -35,7 +35,7 @@
   <a href="https://github.com/kepkaklaudia/currency-converter-react">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/CurrencyConverterReact.png" alt="currency-converter-react">
   </a>
-  <a href="https://github.com/kepkaklaudia/taskList">
+  <a href="https://github.com/kepkaklaudia/task-list">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskList.png" alt="task-list">
   </a>
   <a href="https://github.com/kepkaklaudia/taskList-react">

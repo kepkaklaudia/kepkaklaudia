@@ -29,7 +29,7 @@
   <a href="https://github.com/kepkaklaudia/my-first-page">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/MyFirstPage.png" alt="my-first-page">
   </a>
-  <a href="https://github.com/kepkaklaudia/currencyConverter">
+  <a href="https://github.com/kepkaklaudia/currency-converter">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/CurrencyConverter.png" alt="currency-converter">
   </a>
   <a href="https://github.com/kepkaklaudia/currency-converter-react">

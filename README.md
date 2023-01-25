@@ -13,8 +13,10 @@
     <img src="https://img.shields.io/badge/-Create%20React%20App-0F4C81?logo=Create-React-App&logoColor=white&style=flat-square" alt="cra"> 
     <img src="https://img.shields.io/badge/-Redux-0F4C81?logo=Redux&logoColor=white&style=flat-square" alt="redux"> 
     <img src="https://img.shields.io/badge/-Redux%20Saga-0F4C81?logo=Redux-Saga&logoColor=white&style=flat-square" alt="saga"> 
+    <img src="https://img.shields.io/badge/-Bootstrap-0F4C81?logo=Bootstrap&logoColor=white&style=flat-square" alt="saga"> 
   </div>
   <div>
+    <img src="https://img.shields.io/badge/-Framer--Motion-0F4C81?logo=Framer&logoColor=white&style=flat-square" alt="styled">
     <img src="https://img.shields.io/badge/-Styled--Components-0F4C81?logo=styled-components&logoColor=white&style=flat-square" alt="styled">
     <img src="https://img.shields.io/badge/-Git-0F4C81?logo=Git&logoColor=white&style=flat-square" alt="git"> 
     <img src="https://img.shields.io/badge/-GitHub-0F4C81?logo=GitHub&logoColor=white&style=flat-square" alt="github"> 

@@ -27,7 +27,11 @@
   </div>
   
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-  
+  <div>
+    <a href="https://github.com/kepkaklaudia/portfolio">
+    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/portfolio.png" alt="portfolio">
+  </a>
+  </div>
   <a href="https://github.com/kepkaklaudia/my-first-page">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/MyFirstPage.png" alt="my-first-page">
   </a>

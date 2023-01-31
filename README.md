@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-Windows-0F4C81?logo=Windows&logoColor=white&style=flat-square" alt="windows">
   </div>
   
-  Want to learn 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Windows&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Windows&logoColor=white&style=flat-square" alt="reactquery">
+  Want to learn 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery">
   
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <div>

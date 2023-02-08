@@ -24,10 +24,11 @@
     <img src="https://img.shields.io/badge/-Canva-0F4C81?logo=Canva&logoColor=white&style=flat-square" alt="canva"> 
     <img src="https://img.shields.io/badge/-Slack-0F4C81?logo=Slack&logoColor=white&style=flat-square" alt="slack"> 
     <img src="https://img.shields.io/badge/-Windows-0F4C81?logo=Windows&logoColor=white&style=flat-square" alt="windows">
-  </div>
+  </div> <br />
+  Want to learn next 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery"> <br />
   
-  Want to learn 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery">
-  
+  Next project 🛠 : Movies Browser 🎞
+
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <div>
     <a href="https://github.com/kepkaklaudia/portfolio">

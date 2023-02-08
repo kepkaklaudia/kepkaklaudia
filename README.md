@@ -53,5 +53,8 @@
   <a href="https://github.com/kepkaklaudia/task-list-redux">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskListRedux.png" alt="task-list-redux">
   </a>
+    <a href="https://github.com/kepkaklaudia/simple-weather-app">
+    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/SimpleWeatherApp.png" alt="simple-weather-app">
+  </a>
   
 </div>

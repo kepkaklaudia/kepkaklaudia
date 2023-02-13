@@ -27,7 +27,7 @@
   </div> <br />
   Want to learn next 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery"> <br />
   
-  Next project 🛠 : Movies Browser 🎞
+  Next project 🛠 : Movies Browser - Group Project 🎞
 
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <div>
@@ -56,5 +56,7 @@
     <a href="https://github.com/kepkaklaudia/simple-weather-app">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/SimpleWeatherApp.png" alt="simple-weather-app">
   </a>
-  
+  <a href="https://github.com/kepkaklaudia/memo-game">
+    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/Memo.png" alt="memo-game">
+  </a>
 </div>

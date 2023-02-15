@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Slack-0F4C81?logo=Slack&logoColor=white&style=flat-square" alt="slack"> 
     <img src="https://img.shields.io/badge/-Windows-0F4C81?logo=Windows&logoColor=white&style=flat-square" alt="windows">
   </div> <br />
-  Want to learn next 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery"> <br />
+  Want to learn next 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery"> <img src="https://img.shields.io/badge/-PHP-0F4C81?logo=PHP&logoColor=white&style=flat-square" alt="php"> <br />
   
   Next project 🛠 : Movies Browser - Group Project 🎞
 

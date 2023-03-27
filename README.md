@@ -28,8 +28,9 @@
   </div> <br />
   Want to learn next 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery"> <img src="https://img.shields.io/badge/-PHP-0F4C81?logo=PHP&logoColor=white&style=flat-square" alt="php"> <br />
   
-  Next project 🛠 : Movies Browser - Group Project 🎞
-
+ Latest project : Movies Browser - Group Project 🎞
+ Currently working on : gnNews
+  
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <div>
     <a href="https://github.com/kepkaklaudia/portfolio">

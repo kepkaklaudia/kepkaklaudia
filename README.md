@@ -61,7 +61,10 @@
   <a href="https://github.com/kepkaklaudia/memo-game">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/Memo.png" alt="memo-game">
   </a>
-    <a href="https://github.com/kepkaklaudia/movies-browser">
+  <a href="https://github.com/kepkaklaudia/movies-browser">
     <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/moviesBrowser.png" alt="movies-browser">
+  </a>
+  <a href="https://github.com/kepkaklaudia/gnNews">
+    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/gnNews.png" alt="gnNews">
   </a>
 </div>

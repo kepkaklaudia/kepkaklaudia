@@ -27,10 +27,12 @@
     <img src="https://img.shields.io/badge/-Figma-0F4C81?logo=Figma&logoColor=white&style=flat-square" alt="figma"> 
     <img src="https://img.shields.io/badge/-Windows-0F4C81?logo=Windows&logoColor=white&style=flat-square" alt="windows">
   </div> <br />
-  Want to learn next 📈 <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery"> <br />
+  Want to learn next 📈  <br />
+  <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-ReactQuery-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="reactquery"> <br />
   
- Latest project : Movies Browser - Group Project 🎞<br />
- Currently working on : gnNews
+ Latest project : <br />
+ Movies Browser - Group Project 🎞  <br />
+ gnNews 📰
   
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <div>

@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/-CSS-0F4C81?logo=CSS3&logoColor=white&style=flat-square" alt="css"> 
     <img src="https://img.shields.io/badge/-JavaScript-0F4C81?logo=JavaScript&logoColor=white&style=flat-square" alt="javascript"> 
     <img src="https://img.shields.io/badge/-React-0F4C81?logo=React&logoColor=white&style=flat-square" alt="react"> 
+    <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=TypeScript&logoColor=white&style=flat-square" alt=" typescript"> 
     <img src="https://img.shields.io/badge/-React%20Router-0F4C81?logo=React-Router&logoColor=white&style=flat-square" alt="router"> 
     <img src="https://img.shields.io/badge/-Create%20React%20App-0F4C81?logo=Create-React-App&logoColor=white&style=flat-square" alt="cra"> 
     <img src="https://img.shields.io/badge/-Redux-0F4C81?logo=Redux&logoColor=white&style=flat-square" alt="redux"> 

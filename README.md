@@ -33,39 +33,5 @@
   <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-TanStack-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="tanstack"> <img src="https://img.shields.io/badge/-shadcn/ui-0F4C81?logo=radixui&logoColor=white&style=flat-square" alt="shadcn/ui">  <br />
   
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-  <div>
-    <a href="https://github.com/kepkaklaudia/portfolio">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/Portfolio.png" alt="portfolio">
-  </a>
-  </div>
-  <a href="https://github.com/kepkaklaudia/my-first-page">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/MyFirstPage.png" alt="my-first-page">
-  </a>
-  <a href="https://github.com/kepkaklaudia/currency-converter">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/CurrencyConverter.png" alt="currency-converter">
-  </a>
-  <a href="https://github.com/kepkaklaudia/currency-converter-react">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/CurrencyConverterReact.png" alt="currency-converter-react">
-  </a>
-  <a href="https://github.com/kepkaklaudia/task-list">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskList.png" alt="task-list">
-  </a>
-  <a href="https://github.com/kepkaklaudia/task-list-react">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskListReact.png" alt="task-list-react">
-  </a>
-  <a href="https://github.com/kepkaklaudia/task-list-redux">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/TaskListRedux.png" alt="task-list-redux">
-  </a>
-    <a href="https://github.com/kepkaklaudia/simple-weather-app">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/SimpleWeatherApp.png" alt="simple-weather-app">
-  </a>
-  <a href="https://github.com/kepkaklaudia/memo-game">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/Memo.png" alt="memo-game">
-  </a>
-  <a href="https://github.com/kepkaklaudia/movies-browser">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/moviesBrowser.png" alt="movies-browser">
-  </a>
-  <a href="https://github.com/kepkaklaudia/gnNews">
-    <img width="250" src="https://github.com/kepkaklaudia/kepkaklaudia/blob/main/images/gnNews.png" alt="gnNews">
-  </a>
+ 
 </div>

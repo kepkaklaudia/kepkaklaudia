@@ -31,10 +31,6 @@
  
   <img src="https://img.shields.io/badge/-Next.js-0F4C81?logo=Next.js&logoColor=white&style=flat-square" alt="Next.js"> 
   <img src="https://img.shields.io/badge/-TypeScript-0F4C81?logo=Typescript&logoColor=white&style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/-TanStack-0F4C81?logo=Reactquery&logoColor=white&style=flat-square" alt="tanstack"> <img src="https://img.shields.io/badge/-shadcn/ui-0F4C81?logo=radixui&logoColor=white&style=flat-square" alt="shadcn/ui">  <br />
-
- Latest project : <br />
- Movies Browser - Group Project 🎞  <br />
- gnNews 📰
   
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <div>
